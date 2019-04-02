@@ -1,5 +1,5 @@
 var numbers = []
-for (var index = 5; index <= 30; index += 5) {
+for (var index = 7; index <= 50; index += 7) {
   numbers.push(index);
 }
 alert(numbers);
